@@ -1,0 +1,182 @@
+F:\test\testing\testing\bin\testing.dll.config
+F:\test\testing\testing\bin\testing.dll
+F:\test\testing\testing\bin\testing.pdb
+F:\test\testing\testing\bin\roslyn\csc.exe
+F:\test\testing\testing\bin\roslyn\csc.exe.config
+F:\test\testing\testing\bin\roslyn\csc.rsp
+F:\test\testing\testing\bin\roslyn\csi.exe
+F:\test\testing\testing\bin\roslyn\csi.exe.config
+F:\test\testing\testing\bin\roslyn\csi.rsp
+F:\test\testing\testing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\test\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\test\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\test\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\test\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\test\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\test\testing\testing\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\test\testing\testing\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\test\testing\testing\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\test\testing\testing\bin\roslyn\Microsoft.Managed.Core.targets
+F:\test\testing\testing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\test\testing\testing\bin\roslyn\System.AppContext.dll
+F:\test\testing\testing\bin\roslyn\System.Collections.Immutable.dll
+F:\test\testing\testing\bin\roslyn\System.Console.dll
+F:\test\testing\testing\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\test\testing\testing\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\test\testing\testing\bin\roslyn\System.IO.Compression.dll
+F:\test\testing\testing\bin\roslyn\System.IO.FileSystem.dll
+F:\test\testing\testing\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\test\testing\testing\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\test\testing\testing\bin\roslyn\System.IO.Pipes.dll
+F:\test\testing\testing\bin\roslyn\System.Reflection.Metadata.dll
+F:\test\testing\testing\bin\roslyn\System.Security.AccessControl.dll
+F:\test\testing\testing\bin\roslyn\System.Security.Claims.dll
+F:\test\testing\testing\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\test\testing\testing\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\test\testing\testing\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\test\testing\testing\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\test\testing\testing\bin\roslyn\System.Security.Principal.Windows.dll
+F:\test\testing\testing\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\test\testing\testing\bin\roslyn\System.ValueTuple.dll
+F:\test\testing\testing\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\test\testing\testing\bin\roslyn\System.Xml.XmlDocument.dll
+F:\test\testing\testing\bin\roslyn\System.Xml.XPath.dll
+F:\test\testing\testing\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\test\testing\testing\bin\roslyn\vbc.exe
+F:\test\testing\testing\bin\roslyn\vbc.exe.config
+F:\test\testing\testing\bin\roslyn\vbc.rsp
+F:\test\testing\testing\bin\roslyn\VBCSCompiler.exe
+F:\test\testing\testing\bin\roslyn\VBCSCompiler.exe.config
+F:\test\testing\testing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\test\testing\testing\bin\MySql.Data.dll
+F:\test\testing\testing\bin\MySql.Web.dll
+F:\test\testing\testing\bin\Google.Protobuf.dll
+F:\test\testing\testing\bin\MySql.Data.xml
+F:\test\testing\testing\bin\MySql.Web.xml
+F:\test\testing\testing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\test\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+F:\test\testing\testing\obj\Debug\testing.csproj.CopyComplete
+F:\test\testing\testing\obj\Debug\testing.dll
+F:\test\testing\testing\obj\Debug\testing.pdb
+F:\test\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+F:\test\testing\testing\bin\SKGL.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\testing.dll.config
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\testing.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\testing.pdb
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\csc.exe
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\csc.exe.config
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\csc.rsp
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\csi.exe
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\csi.exe.config
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\csi.rsp
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.AppContext.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Console.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\vbc.exe
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\vbc.exe.config
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\vbc.rsp
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\SKGL.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\Google.Protobuf.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\MySql.Data.xml
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\MySql.Web.xml
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\obj\Debug\testing.csproj.CopyComplete
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\obj\Debug\testing.dll
+C:\Users\Sarika\Desktop\console-master (2)\console-master\testing\testing\obj\Debug\testing.pdb
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\testing.dll.config
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\testing.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\testing.pdb
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\csc.exe
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\csc.exe.config
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\csc.rsp
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\csi.exe
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\csi.exe.config
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\csi.rsp
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.AppContext.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Console.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\vbc.exe
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\vbc.exe.config
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\vbc.rsp
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\SKGL.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\Google.Protobuf.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\MySql.Data.xml
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\MySql.Web.xml
+C:\Users\Sarika\Desktop\console-master\testing\testing\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sarika\Desktop\console-master\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\Sarika\Desktop\console-master\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\Sarika\Desktop\console-master\testing\testing\obj\Debug\testing.csproj.CopyComplete
+C:\Users\Sarika\Desktop\console-master\testing\testing\obj\Debug\testing.dll
+C:\Users\Sarika\Desktop\console-master\testing\testing\obj\Debug\testing.pdb
